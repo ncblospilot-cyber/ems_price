@@ -1,4 +1,5 @@
 import React, { useMemo, useState } from "react"
+import { SpeedInsights } from "@vercel/speed-insights/react"
 import pricing from "./data/ems/v4/pricing.json"
 import provinces from "./data/ems/v4/provinces.json"
 import ProvinceSelect from "./components/ProvinceSelect.jsx"
