@@ -111,6 +111,7 @@ export default function App() {
 
         <QuoteResult result={result} />
       </div>
+      <SpeedInsights />
     </div>
   )
 }
