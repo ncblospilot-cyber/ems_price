@@ -1,0 +1,254 @@
+{
+  "AN_GIANG": {
+    "name": "An Giang",
+    "region": "R2"
+  },
+  "BA_RIA_VUNG_TAU": {
+    "name": "Bà Rịa Vũng Tàu",
+    "region": "R2"
+  },
+  "BAC_GIANG": {
+    "name": "Bắc Giang",
+    "region": "R1"
+  },
+  "BAC_KAN": {
+    "name": "Bắc Kạn",
+    "region": "R1"
+  },
+  "BAC_LIEU": {
+    "name": "Bạc Liêu",
+    "region": "R2"
+  },
+  "BAC_NINH": {
+    "name": "Bắc Ninh",
+    "region": "R1"
+  },
+  "BEN_TRE": {
+    "name": "Bến Tre",
+    "region": "R2"
+  },
+  "BINH_INH": {
+    "name": "Bình Định",
+    "region": "R3"
+  },
+  "BINH_DUONG": {
+    "name": "Bình Dương",
+    "region": "R2"
+  },
+  "BINH_PHUOC": {
+    "name": "Bình Phước",
+    "region": "R2"
+  },
+  "BINH_THUAN": {
+    "name": "Bình Thuận",
+    "region": "R2"
+  },
+  "CA_MAU": {
+    "name": "Cà Mau",
+    "region": "R2"
+  },
+  "CAN_THO": {
+    "name": "Cần Thơ",
+    "region": "R2"
+  },
+  "CAO_BANG": {
+    "name": "Cao Bằng",
+    "region": "R1"
+  },
+  "A_NANG": {
+    "name": "Đà Nẵng",
+    "region": "R3"
+  },
+  "AK_LAK": {
+    "name": "Đắk Lắk",
+    "region": "R2"
+  },
+  "AK_NONG": {
+    "name": "Đắk Nông",
+    "region": "R2"
+  },
+  "IEN_BIEN": {
+    "name": "Điện Biên",
+    "region": "R1"
+  },
+  "ONG_NAI": {
+    "name": "Đồng Nai",
+    "region": "R2"
+  },
+  "ONG_THAP": {
+    "name": "Đồng Tháp",
+    "region": "R2"
+  },
+  "GIA_LAI": {
+    "name": "Gia Lai",
+    "region": "R3"
+  },
+  "HA_GIANG": {
+    "name": "Hà Giang",
+    "region": "R1"
+  },
+  "HA_NAM": {
+    "name": "Hà Nam",
+    "region": "R1"
+  },
+  "HA_NOI": {
+    "name": "Hà Nội",
+    "region": "R1"
+  },
+  "HA_TINH": {
+    "name": "Hà Tĩnh",
+    "region": "R1"
+  },
+  "HAI_DUONG": {
+    "name": "Hải Dương",
+    "region": "R1"
+  },
+  "HAI_PHONG": {
+    "name": "Hải Phòng",
+    "region": "R1"
+  },
+  "HAU_GIANG": {
+    "name": "Hậu Giang",
+    "region": "R2"
+  },
+  "HOA_BINH": {
+    "name": "Hòa Bình",
+    "region": "R1"
+  },
+  "HUNG_YEN": {
+    "name": "Hưng Yên",
+    "region": "R1"
+  },
+  "KHANH_HOA": {
+    "name": "Khánh Hòa",
+    "region": "R3"
+  },
+  "KIEN_GIANG": {
+    "name": "Kiên Giang",
+    "region": "R2"
+  },
+  "KON_TUM": {
+    "name": "Kon Tum",
+    "region": "R3"
+  },
+  "LAI_CHAU": {
+    "name": "Lai Châu",
+    "region": "R1"
+  },
+  "LAM_ONG": {
+    "name": "Lâm Đồng",
+    "region": "R2"
+  },
+  "LANG_SON": {
+    "name": "Lạng Sơn",
+    "region": "R1"
+  },
+  "LAO_CAI": {
+    "name": "Lào Cai",
+    "region": "R1"
+  },
+  "LONG_AN": {
+    "name": "Long An",
+    "region": "R2"
+  },
+  "NAM_INH": {
+    "name": "Nam Định",
+    "region": "R1"
+  },
+  "NGHE_AN": {
+    "name": "Nghệ An",
+    "region": "R1"
+  },
+  "NINH_BINH": {
+    "name": "Ninh Bình",
+    "region": "R1"
+  },
+  "NINH_THUAN": {
+    "name": "Ninh Thuận",
+    "region": "R2"
+  },
+  "PHU_THO": {
+    "name": "Phú Thọ",
+    "region": "R1"
+  },
+  "PHU_YEN": {
+    "name": "Phú Yên",
+    "region": "R3"
+  },
+  "QUANG_BINH": {
+    "name": "Quảng Bình",
+    "region": "R3"
+  },
+  "QUANG_NAM": {
+    "name": "Quảng Nam",
+    "region": "R3"
+  },
+  "QUANG_NGAI": {
+    "name": "Quảng Ngãi",
+    "region": "R3"
+  },
+  "QUANG_NINH": {
+    "name": "Quảng Ninh",
+    "region": "R1"
+  },
+  "QUANG_TRI": {
+    "name": "Quảng Trị",
+    "region": "R3"
+  },
+  "SOC_TRANG": {
+    "name": "Sóc Trăng",
+    "region": "R2"
+  },
+  "SON_LA": {
+    "name": "Sơn La",
+    "region": "R1"
+  },
+  "TAY_NINH": {
+    "name": "Tây Ninh",
+    "region": "R2"
+  },
+  "THAI_BINH": {
+    "name": "Thái Bình",
+    "region": "R1"
+  },
+  "THAI_NGUYEN": {
+    "name": "Thái Nguyên",
+    "region": "R1"
+  },
+  "THANH_HOA": {
+    "name": "Thanh Hóa",
+    "region": "R1"
+  },
+  "THUA_THIEN_HUE": {
+    "name": "Thừa Thiên Huế",
+    "region": "R3"
+  },
+  "TIEN_GIANG": {
+    "name": "Tiền Giang",
+    "region": "R2"
+  },
+  "TP_HO_CHI_MINH": {
+    "name": "TP. Hồ Chí Minh",
+    "region": "R2"
+  },
+  "TRA_VINH": {
+    "name": "Trà Vinh",
+    "region": "R2"
+  },
+  "TUYEN_QUANG": {
+    "name": "Tuyên Quang",
+    "region": "R1"
+  },
+  "VINH_LONG": {
+    "name": "Vĩnh Long",
+    "region": "R2"
+  },
+  "VINH_PHUC": {
+    "name": "Vĩnh Phúc",
+    "region": "R1"
+  },
+  "YEN_BAI": {
+    "name": "Yên Bái",
+    "region": "R1"
+  }
+}
